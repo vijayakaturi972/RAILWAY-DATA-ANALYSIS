@@ -90,22 +90,6 @@ Data_Engineering_Internship/
 
 ---
 
-## 📸 Output Screenshots
-
-### Dataset Preview
-![Dataset Preview](screenshots/04_dataset_preview.png)
-
-### Train Distribution by Day
-![Train Distribution by Day](screenshots/01_train_distribution_by_day.png)
-
-### Top 10 Busiest Source Stations
-![Top 10 Source Stations](screenshots/02_top_10_source_stations.png)
-
-### Weekday vs Weekend Train Distribution
-![Weekday vs Weekend](screenshots/03_weekday_vs_weekend.png)
-
----
-
 ## 💡 Key Insights
 
 1. **11,113 trains** are recorded in the dataset across India
